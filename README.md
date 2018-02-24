@@ -1,2 +1,2 @@
 # my-consulting
-practice-website
+practice_website
