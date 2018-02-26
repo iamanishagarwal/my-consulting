@@ -1,23 +1,57 @@
+body{
+    background-color: #DBE2EF;
+}
+
+.bg-primary{
+    background-color: #112D4E!important;
+}
+
+.text-primary{
+    color: #112D4E!important;
+}
+
+.header-color{
+    color: #DBE2EF;
+}
+
+.display-3{
+    font-weight: 400;
+}
 
 .background {
-    background-image: url(../img/bg_img1.jpeg);
+    background-image: url(../img/bg_img2.jpeg);
     height: 100vh;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    position: relative;
 }
 
 .background .heading{
     background-color: rgba(255,255,255,0.2);
+    position: absolute;
+    top: 88px;
 }
 
 .card {
     box-sizing: border-box!important;
 }
 
+.bg-color{
+    background-color: #3F72AF;
+}
+
+.section,.article3{
+    background-color: #DBE2EF;
+}
+
+.sub-article .text, .article2 .text{
+    color: #3F72AF;
+}
+
 .article2{
-    background-color: rgb(209,224,235);
+    background-color: #F9F7F7;
 }
 
 .btn{
